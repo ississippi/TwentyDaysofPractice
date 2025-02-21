@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\reversestringii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\reversestringii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\reversestringii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\reversestringii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Palindrome.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Palindrome.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\Palindrome.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Palindrome.cs*",
-              "RelativeToolTip": "TwentyDaysofPractice\\Palindrome.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Palindrome.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\Palindrome.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T14:37:56.081Z",
               "EditorCaption": ""
@@ -59,18 +59,17 @@
               "RelativeToolTip": "TwentyDaysofPractice\\ReverseString.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:55:51.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T15:55:51.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ReverseStringII.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseStringII.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\ReverseStringII.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseStringII.cs",
-              "RelativeToolTip": "TwentyDaysofPractice\\ReverseStringII.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAD4vykAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseStringII.cs*",
+              "RelativeToolTip": "TwentyDaysofPractice\\ReverseStringII.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T15:49:21.015Z",
               "EditorCaption": ""
@@ -83,7 +82,7 @@
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\Program.cs",
               "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
               "RelativeToolTip": "TwentyDaysofPractice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T15:44:18.904Z",
               "EditorCaption": ""

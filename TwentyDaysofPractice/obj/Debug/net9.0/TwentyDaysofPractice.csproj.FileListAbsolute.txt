@@ -12,3 +12,4 @@ C:\Users\issis\source\repos\TwentyDaysofPractice\TwentyDaysofPractice\obj\Debug\
 C:\Users\issis\source\repos\TwentyDaysofPractice\TwentyDaysofPractice\obj\Debug\net9.0\TwentyDaysofPractice.pdb
 C:\Users\issis\source\repos\TwentyDaysofPractice\TwentyDaysofPractice\obj\Debug\net9.0\TwentyDaysofPractice.genruntimeconfig.cache
 C:\Users\issis\source\repos\TwentyDaysofPractice\TwentyDaysofPractice\obj\Debug\net9.0\ref\TwentyDaysofPractice.dll
+C:\Users\issis\source\repos\TwentyDaysofPractice\TwentyDaysofPractice\obj\Debug\net9.0\TwentyDaysofPractice.sourcelink.json
