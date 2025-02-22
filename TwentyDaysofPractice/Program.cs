@@ -38,6 +38,11 @@ using TwentyDaysofPractice;
 //var s = "abcabcbb";
 //var s = " ";
 //var s = "aab";
-var s = "dvdf";
-var l = new LongestSubstring();
-Debug.WriteLine($"Longest substring without repeating characters is: {l.LengthOfLongestSubstring(s)}");
+//var s = "dvdf";
+//var l = new LongestSubstring();
+//Debug.WriteLine($"Longest substring without repeating characters is: {l.LengthOfLongestSubstring(s)}");
+
+var l = new LinkedList("Gary");
+l.Append("Smith");
+Debug.WriteLine(l.head.value);
+Debug.WriteLine(l.head.next.value);
