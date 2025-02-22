@@ -24,13 +24,20 @@ using TwentyDaysofPractice;
 //var p = new Palindrome();
 //Debug.WriteLine($"isPalindrone: {p.IsPalindrome(ip1)}");
 
-var list1 = new string[] { "Shogun", "Tapioca Express", "Burger King", "KFC" };
-var list2 = new string[] { "Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun" };
-var m = new MinIdxSumTwoLists();
-var res = m.FindRestaurant(list1, list2);
-Debug.WriteLine("Restaurants with minimum index sum are: ");
-Thread.Sleep(1000);
-foreach (string s in res)
-{
-    Debug.WriteLine(s);
-}
+//var list1 = new string[] { "Shogun", "Tapioca Express", "Burger King", "KFC" };
+//var list2 = new string[] { "Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun" };
+//var m = new MinIdxSumTwoLists();
+//var res = m.FindRestaurant(list1, list2);
+//Debug.WriteLine("Restaurants with minimum index sum are: ");
+//Thread.Sleep(1000);
+//foreach (string s in res)
+//{
+//    Debug.WriteLine(s);
+//}
+
+//var s = "abcabcbb";
+//var s = " ";
+//var s = "aab";
+var s = "dvdf";
+var l = new LongestSubstring();
+Debug.WriteLine($"Longest substring without repeating characters is: {l.LengthOfLongestSubstring(s)}");

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\lengthoflongestsubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\lengthoflongestsubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\minidxsumtwolists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\minidxsumtwolists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\reversestringii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\reversestringii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,19 +47,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LengthOfLongestSubstring.cs",
+              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\LengthOfLongestSubstring.cs",
+              "RelativeDocumentMoniker": "TwentyDaysofPractice\\LengthOfLongestSubstring.cs",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\LengthOfLongestSubstring.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\LengthOfLongestSubstring.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:17:53.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MinIdxSumTwoLists.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MinIdxSumTwoLists.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\MinIdxSumTwoLists.cs",
               "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MinIdxSumTwoLists.cs",
               "RelativeToolTip": "TwentyDaysofPractice\\MinIdxSumTwoLists.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwB0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwCYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T17:37:31.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T17:37:31.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Palindrome.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Palindrome.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\Palindrome.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ReverseString.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseString.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\ReverseString.cs",
@@ -81,6 +97,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
+              "RelativeDocumentMoniker": "TwentyDaysofPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:18.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ReverseStringII.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseStringII.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\ReverseStringII.cs",
@@ -88,21 +117,7 @@
               "RelativeToolTip": "TwentyDaysofPractice\\ReverseStringII.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:49:21.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
-              "RelativeDocumentMoniker": "TwentyDaysofPractice\\Program.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
-              "RelativeToolTip": "TwentyDaysofPractice\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwB8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:44:18.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T15:49:21.015Z"
             }
           ]
         }
