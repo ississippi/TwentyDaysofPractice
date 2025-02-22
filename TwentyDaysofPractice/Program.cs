@@ -42,7 +42,12 @@ using TwentyDaysofPractice;
 //var l = new LongestSubstring();
 //Debug.WriteLine($"Longest substring without repeating characters is: {l.LengthOfLongestSubstring(s)}");
 
-var l = new LinkedList("Gary");
-l.Append("Smith");
-Debug.WriteLine(l.head.value);
-Debug.WriteLine(l.head.next.value);
+//var l = new LinkedList("Gary");
+//l.Append("Smith");
+//Debug.WriteLine(l.head.value);
+//Debug.WriteLine(l.head.next.value);
+
+int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+int windowSize = 3;
+Console.WriteLine("Sliding Window Sum:");
+SlidingWindowExample.SlidingWindowTraverse(arr, windowSize);
