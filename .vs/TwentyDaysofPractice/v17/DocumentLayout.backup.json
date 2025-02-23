@@ -42,11 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -54,16 +58,12 @@
               "Title": "SlidingWindow.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\SlidingWindow.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\SlidingWindow.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\SlidingWindow.cs*",
-              "RelativeToolTip": "TwentyDaysofPractice\\SlidingWindow.cs*",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\SlidingWindow.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\SlidingWindow.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T14:41:03.297Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -109,8 +109,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\Program.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs*",
-              "RelativeToolTip": "TwentyDaysofPractice\\Program.cs*",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T15:44:18.904Z",
