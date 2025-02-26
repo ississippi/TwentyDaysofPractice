@@ -50,5 +50,22 @@ namespace TwentyDaysofPractice
             return new List<int>(arr);
         }
 
+        public static List<int> InsertionSort(List<int> arr)
+        {
+            // Write your code here.
+            for (int i = 0; i < arr.Count; i++)
+            {
+                var temp = arr[i];
+                var j = i - 1;
+                while (j >= 0 && arr[j] > temp)
+                {
+                    arr[j + 1] = arr[j];
+                    j--;
+                }
+                arr[j + 1] = temp;
+            }
+            return arr;
+        }
+
     }
 }
