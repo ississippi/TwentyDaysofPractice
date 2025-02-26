@@ -16,17 +16,16 @@ namespace TwentyDaysofPractice
     // Input: head = [3,2,0,-4], pos = 1
     // Output: true
     // Explanation: There is a cycle in the linked list, where the tail connects to the 1st node(0-indexed).
-    /**
-     * Definition for singly-linked list.
-     * public class ListNode {
-     *     public int val;
-     *     public ListNode next;
-     *     public ListNode(int x) {
-     *         val = x;
-     *         next = null;
-     *     }
-     * }
-     */
+    // Definition for singly-linked list.
+    public class ListNode {
+        public int val;
+        public ListNode next;
+        public ListNode(int x) {
+            val = x;
+            next = null;
+        }
+    }
+     
     internal class HasCycleLL
     {
         public bool HasCycle(ListNode head)
@@ -49,4 +48,4 @@ namespace TwentyDaysofPractice
         }
     }
 }
-}
+

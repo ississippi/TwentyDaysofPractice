@@ -47,7 +47,13 @@ using TwentyDaysofPractice;
 //Debug.WriteLine(l.head.value);
 //Debug.WriteLine(l.head.next.value);
 
-int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-int windowSize = 3;
-Console.WriteLine("Sliding Window Sum:");
-SlidingWindowExample.SlidingWindowTraverse(arr, windowSize);
+//int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+//int windowSize = 3;
+//Console.WriteLine("Sliding Window Sum:");
+//SlidingWindowExample.SlidingWindowTraverse(arr, windowSize);
+
+//string[] arr = { "eat", "tea", "tan", "ate", "nat", "bat" };
+string[] arr = {"", ""};
+var g = new GroupAnagramsClass();
+var res = g.GroupAnagrams(arr);
+Debug.Write(res);
