@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,11 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MergeSort.cs",
+              "RelativeDocumentMoniker": "TwentyDaysofPractice\\MergeSort.cs",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MergeSort.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\MergeSort.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:53:10.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,7 +97,7 @@
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\BubbleSort.cs",
               "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\BubbleSort.cs*",
               "RelativeToolTip": "TwentyDaysofPractice\\BubbleSort.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:21:33.208Z",
               "EditorCaption": ""
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GroupAnagrams.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\GroupAnagrams.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\GroupAnagrams.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NextGreaterElement.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\NextGreaterElement.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\NextGreaterElement.cs",
@@ -117,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ValidParens.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ValidParens.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\ValidParens.cs",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HasCycleLL.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\HasCycleLL.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\HasCycleLL.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ReverseLL.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseLL.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\ReverseLL.cs",
@@ -156,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\Program.cs",
@@ -169,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SlidingWindow.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\SlidingWindow.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\SlidingWindow.cs",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MinIdxSumTwoLists.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MinIdxSumTwoLists.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\MinIdxSumTwoLists.cs",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ReverseStringII.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseStringII.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\ReverseStringII.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LengthOfLongestSubstring.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\LengthOfLongestSubstring.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\LengthOfLongestSubstring.cs",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LinkedList.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\LinkedList.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\LinkedList.cs",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ReverseString.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseString.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\ReverseString.cs",
@@ -245,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Palindrome.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Palindrome.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\Palindrome.cs",

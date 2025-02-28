@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyDaysofPractice
 {
-    internal class BubbleSort
+    internal class SortClass
     {
         public static List<int> BubbleSort(List<int> arr)
         {
