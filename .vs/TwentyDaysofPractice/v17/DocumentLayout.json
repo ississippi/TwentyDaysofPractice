@@ -88,34 +88,10 @@
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\QuickSort.cs",
               "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\QuickSort.cs*",
               "RelativeToolTip": "TwentyDaysofPractice\\QuickSort.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowEYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T20:12:14.024Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MergeSort.cs",
-              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MergeSort.cs",
-              "RelativeDocumentMoniker": "TwentyDaysofPractice\\MergeSort.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MergeSort.cs",
-              "RelativeToolTip": "TwentyDaysofPractice\\MergeSort.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T15:53:10.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sort.cs",
-              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Sort.cs",
-              "RelativeDocumentMoniker": "TwentyDaysofPractice\\Sort.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Sort.cs",
-              "RelativeToolTip": "TwentyDaysofPractice\\Sort.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:21:33.208Z"
             },
             {
               "$type": "Document",
@@ -177,6 +153,34 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T13:11:56.561Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Sort.cs",
+              "RelativeDocumentMoniker": "TwentyDaysofPractice\\Sort.cs",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Sort.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\Sort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:21:33.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MergeSort.cs",
+              "RelativeDocumentMoniker": "TwentyDaysofPractice\\MergeSort.cs",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MergeSort.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\MergeSort.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:53:10.464Z"
             },
             {
               "$type": "Document",
@@ -273,10 +277,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T14:37:56.081Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
