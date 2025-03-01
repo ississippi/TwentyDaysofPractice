@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|solutionrelative:twentydaysofpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D6340A-F107-4AA4-ABA0-9B67E269BBD8}|TwentyDaysofPractice\\TwentyDaysofPractice.csproj|c:\\users\\issis\\source\\repos\\twentydaysofpractice\\twentydaysofpractice\\hascyclell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MergeSort.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\MergeSort.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\MergeSort.cs",
@@ -91,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BubbleSort.cs",
-              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\BubbleSort.cs",
-              "RelativeDocumentMoniker": "TwentyDaysofPractice\\BubbleSort.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\BubbleSort.cs*",
-              "RelativeToolTip": "TwentyDaysofPractice\\BubbleSort.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Sort.cs",
+              "RelativeDocumentMoniker": "TwentyDaysofPractice\\Sort.cs",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Sort.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\Sort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:21:33.208Z",
               "EditorCaption": ""
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GroupAnagrams.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\GroupAnagrams.cs",
               "RelativeDocumentMoniker": "TwentyDaysofPractice\\GroupAnagrams.cs",
@@ -117,19 +117,6 @@
               "ViewState": "AgIAAAgAAAAAAAAAAIA2wCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T14:17:54.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NextGreaterElement.cs",
-              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\NextGreaterElement.cs",
-              "RelativeDocumentMoniker": "TwentyDaysofPractice\\NextGreaterElement.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\NextGreaterElement.cs",
-              "RelativeToolTip": "TwentyDaysofPractice\\NextGreaterElement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T13:11:56.561Z",
               "EditorCaption": ""
             },
             {
@@ -160,6 +147,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
+              "RelativeDocumentMoniker": "TwentyDaysofPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:44:18.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NextGreaterElement.cs",
+              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\NextGreaterElement.cs",
+              "RelativeDocumentMoniker": "TwentyDaysofPractice\\NextGreaterElement.cs",
+              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\NextGreaterElement.cs",
+              "RelativeToolTip": "TwentyDaysofPractice\\NextGreaterElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:11:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ReverseLL.cs",
               "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\ReverseLL.cs",
@@ -169,19 +182,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T21:08:51.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
-              "RelativeDocumentMoniker": "TwentyDaysofPractice\\Program.cs",
-              "ToolTip": "C:\\Users\\issis\\source\\repos\\TwentyDaysofPractice\\TwentyDaysofPractice\\Program.cs",
-              "RelativeToolTip": "TwentyDaysofPractice\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAkwDcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:44:18.904Z",
               "EditorCaption": ""
             },
             {
