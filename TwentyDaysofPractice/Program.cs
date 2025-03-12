@@ -42,10 +42,9 @@ using TwentyDaysofPractice;
 //var l = new LongestSubstring();
 //Debug.WriteLine($"Longest substring without repeating characters is: {l.LengthOfLongestSubstring(s)}");
 
-//var l = new LinkedList("Gary");
-//l.Append("Smith");
-//Debug.WriteLine(l.head.value);
-//Debug.WriteLine(l.head.next.value);
+var ll = new LinkedList("hello");
+ll.Append("goodbye");
+ll.PrintLL();
 
 //int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 //int windowSize = 3;
@@ -53,7 +52,15 @@ using TwentyDaysofPractice;
 //SlidingWindowExample.SlidingWindowTraverse(arr, windowSize);
 
 //string[] arr = { "eat", "tea", "tan", "ate", "nat", "bat" };
-string[] arr = {"", ""};
-var g = new GroupAnagramsClass();
-var res = g.GroupAnagrams(arr);
-Debug.Write(res);
+//string[] arr = {"", ""};
+//var g = new GroupAnagramsClass();
+//var res = g.GroupAnagrams(arr);
+//Debug.Write(res);
+
+//var wt = new WinningTeams();
+//int[] wins = { 2, 1, 3, 0 };     // Points: 6, 3, 9, 0
+//int[] draws = { 1, 2, 0, 1 };    // Points: 7, 5, 9, 1
+//int[] scored = { 5, 4, 8, 2 };   // Goal Diff: 2, 1, 5, -1
+//int[] conceded = { 3, 3, 3, 3 };
+//int[] expected = { 2, 0 };
+//wt.NewSolution(wins, draws, scored, conceded);

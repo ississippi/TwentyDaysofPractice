@@ -13,13 +13,37 @@ namespace TwentyDaysofPractice
         {
             // First assign a random value as the pivot value to avoid worst case hack
             // where the first havlue is at the extreme left or extreme right.
-            var rand = new Random();
-            var randIdx = rand.Next(arr.Count - 1);
-            Console.WriteLine($"1st before: {arr[0]}");
-            Swap(arr, 0, randIdx);
-            Console.WriteLine($"1st after: {arr[0]}");
-            HelperHoares(arr, 0, arr.Count - 1);
-            //HelperLomuto(arr, 0, arr.Count - 1);
+            // for larger arrays, it might be better to just select the middle element.
+            // if a large number of elements, rather than selecting a random index just pick something in the middle.
+            if (arr.Count >= 100000)
+            {
+                int median = arr.Count / 2;
+                Swap(arr, 0, median);
+            }
+            else if (arr.Count > 1000 && arr.Count < 100000)
+            {
+                var first = arr[0];
+                var second = arr[arr.Count / 2];
+                var third = arr[arr.Count - 1];
+                var median = 0;
+                if (first > second && first < third)
+                    median = 0;
+                else if (second > first && second < third)
+                    median = arr.Count / 2;
+                else
+                    median = arr.Count - 1;
+                Swap(arr, 0, median);
+            }
+            else
+            {
+                // Assign a random value as the pivot value to avoid worst case hack
+                // where the first havlue is at the extreme left or extreme right.
+                var rand = new Random();
+                var randIdx = rand.Next(arr.Count - 1);
+                Swap(arr, 0, randIdx);
+            }
+
+            //Helper(arr, 0, arr.Count - 1);
             return arr;
         }
 
@@ -73,7 +97,11 @@ namespace TwentyDaysofPractice
             HelperLomuto(arr, start, smaller - 1);
             HelperLomuto(arr, smaller + 1, end);
 
-
+            var x = new SortedDictionary<int, int>();
+            //foreach (var item in x)
+            //{
+            //    item.v
+            //}
         }
 
         public static void Swap(List<int> arr, int i, int j)
@@ -83,3 +111,4 @@ namespace TwentyDaysofPractice
             arr[j] = temp;
         }
     }
+}
