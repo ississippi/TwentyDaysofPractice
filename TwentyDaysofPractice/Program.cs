@@ -42,9 +42,9 @@ using TwentyDaysofPractice;
 //var l = new LongestSubstring();
 //Debug.WriteLine($"Longest substring without repeating characters is: {l.LengthOfLongestSubstring(s)}");
 
-var ll = new LinkedList("hello");
-ll.Append("goodbye");
-ll.PrintLL();
+//var ll = new LinkedList("hello");
+//ll.Append("goodbye");
+//ll.PrintLL();
 
 //int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 //int windowSize = 3;
@@ -64,3 +64,6 @@ ll.PrintLL();
 //int[] conceded = { 3, 3, 3, 3 };
 //int[] expected = { 2, 0 };
 //wt.NewSolution(wins, draws, scored, conceded);
+
+Debug.WriteLine($"IsAlpha: {CharArray.IsAlpha("abNNsmmy")}");
+Debug.WriteLine($"IsAlpha: {CharArray.IsAlpha("abN123Nsmmy")}");
